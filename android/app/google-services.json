@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4092371795",
+    "project_id": "project-abc-c1ph3rj",
+    "storage_bucket": "project-abc-c1ph3rj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4092371795:android:55088ac213a5510077b7a6",
+        "android_client_info": {
+          "package_name": "tech.c1ph3r.project_abc.project_abc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxNsSDgLINEJh3iEoOiSlXJjGgedLS_0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
